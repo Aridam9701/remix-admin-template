@@ -8,19 +8,19 @@ import CloseIcon from "./icons/Close";
 
 const NAV_ITEMS = [
   {
-    label: "Member List",
+    label: "Dashboard",
     href: "/dashboard",
   },
   {
-    label: "Member Details",
+    label: "Tickets IT",
     href: "/dashboard/14c8afd0-50cc-4aca-9547-c997ed306065",
   },
   {
-    label: "New Member",
+    label: "Assetments",
     href: "/dashboard/new",
   },
   {
-    label: "User Profile",
+    label: "Lista de Programas",
     href: "/dashboard/user",
   },
   {
